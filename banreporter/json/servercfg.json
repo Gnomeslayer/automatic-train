@@ -1,0 +1,20 @@
+[
+    {
+        "orgid": 25433,
+        "name": "Dubs Servers",
+        "logo": "https://media.discordapp.net/attachments/1012921867830579230/1012921897308135514/unknown.png",
+        "color": "0x00FF00",
+        "guilds":{
+            "794837147068792862": {
+                "PublicChannel": 1013750548220100689,
+                "PrivateChannel": 1013750500191125534
+            },
+            "968797240212717598": {
+                "PublicChannel": 1013044579399897178,
+                "PrivateChannel": 1013277990941102160
+            }
+        },        
+        "pagesize": 5
+    }
+
+]

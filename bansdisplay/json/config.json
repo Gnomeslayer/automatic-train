@@ -1,0 +1,13 @@
+{
+    "discord_token": "",
+    "battlemetrics_token": "",
+    "steam_token": "",
+    "organization_id": 25433,
+    "organization_name": "",
+    "prefix": "!",
+    "error_channel": 1005354659222925412,
+    "bans_channel": 1005354659222925412,
+    "pagesize": 5,
+    "first_run_spam": true
+}
+
