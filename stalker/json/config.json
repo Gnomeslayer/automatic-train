@@ -1,0 +1,9 @@
+{
+    "discord_token": "",
+    "battlemetrics_token": "",
+    "steam_token": "",
+    "prefix": "!",
+    "application_id": 12,
+    "error_channel": 1013750464912826438,
+    "stalker_channel": 1030000022152040448
+}
